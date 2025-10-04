@@ -1,0 +1,42 @@
+# Downloads
+downloads/
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Claude
+.claude/
+CLAUDE.md
+
+# Logs
+*.log
+wget-log
+
+# Temporary
+*.tmp
+/tmp/
+test_*/
